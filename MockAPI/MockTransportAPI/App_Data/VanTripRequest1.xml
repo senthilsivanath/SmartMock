@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<TripDetailResult xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <resultSubSet>
+    <TripDetail>
+      <tripId>1</tripId>
+      <tripName>1B</tripName>
+      <plannedStartTime>2013-04-18T06:00:00</plannedStartTime>
+      <actualStartTime>2013-04-18T06:00:00</actualStartTime>
+      <plannedEndTime>2013-04-18T08:00:00</plannedEndTime>
+      <actualEndTime>2013-04-18T08:00:00</actualEndTime>
+      <vanRegNo>UK 2010 CT</vanRegNo>
+      <tripStatus>STARTED</tripStatus>
+      <driverName>Nicol Smith</driverName>
+      <driverBadgeId>9876</driverBadgeId>
+      <driverContactNumber>7209817659</driverContactNumber>
+      <shipments>
+        <Shipment>
+          <bookingReferenceID>265619</bookingReferenceID>
+          <plannedArrivalTime>2013-04-18T06:00:00</plannedArrivalTime>
+          <plannedDepartureTime>2013-04-18T08:00:00</plannedDepartureTime>
+          <estimatedArrivalTime>2013-04-18T06:00:00</estimatedArrivalTime>
+          <actualArrivalTime>2013-04-18T06:00:00</actualArrivalTime>
+          <deliveryStatus>PENDING_DELIVERY</deliveryStatus>
+          <lastUpdatedTime>2013-04-18T06:00:00</lastUpdatedTime>
+          <slotDelay>2013-04-18T06:00:00</slotDelay>
+        </Shipment>
+        <Shipment>
+          <bookingReferenceID>265619</bookingReferenceID>
+          <plannedArrivalTime>2013-04-18T06:00:00</plannedArrivalTime>
+          <plannedDepartureTime>2013-04-18T08:00:00</plannedDepartureTime>
+          <estimatedArrivalTime>2013-04-18T06:00:00</estimatedArrivalTime>
+          <actualArrivalTime>2013-04-18T06:00:00</actualArrivalTime>
+          <deliveryStatus>PENDING_DELIVERY</deliveryStatus>
+          <lastUpdatedTime>2013-04-18T06:00:00</lastUpdatedTime>
+          <slotDelay>2013-04-18T06:00:00</slotDelay>
+        </Shipment>
+      </shipments>
+      <serviceType>DOTCOM_VAN_DELIVERY</serviceType>
+      <locationId>IB2</locationId>
+      <trackingNotes> Test tracking note</trackingNotes>
+      <departureDelay>2013-04-18T06:00:00</departureDelay>
+      <tripDataConfidence>MEDIUM</tripDataConfidence>
+    </TripDetail>
+    <TripDetail>
+      <tripId>1</tripId>
+      <tripName>1B</tripName>
+      <plannedStartTime>2013-04-18T06:00:00</plannedStartTime>
+      <actualStartTime>2013-04-18T06:00:00</actualStartTime>
+      <plannedEndTime>2013-04-18T08:00:00</plannedEndTime>
+      <actualEndTime>2013-04-18T08:00:00</actualEndTime>
+      <vanRegNo>UK 2010 CT</vanRegNo>
+      <tripStatus>STARTED</tripStatus>
+      <driverName>Nicol Smith</driverName>
+      <driverBadgeId>9876</driverBadgeId>
+      <driverContactNumber>7209817659</driverContactNumber>
+      <shipments />
+      <serviceType>DOTCOM_VAN_DELIVERY</serviceType>
+      <locationId>IB2</locationId>
+      <trackingNotes> Test tracking note</trackingNotes>
+      <departureDelay>2013-04-18T06:00:00</departureDelay>
+      <tripDataConfidence>MEDIUM</tripDataConfidence>
+    </TripDetail>
+  </resultSubSet>
+  <totalMatchedCount>2</totalMatchedCount>
+</TripDetailResult>

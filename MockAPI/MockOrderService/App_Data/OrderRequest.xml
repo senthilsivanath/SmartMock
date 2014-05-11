@@ -1,0 +1,543 @@
+<?xml version="1.0"?>
+<ArrayOfOrder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Order>
+    <CustomerOrderId>267375</CustomerOrderId>
+    <CustomerOrderReference>1321935585</CustomerOrderReference>
+    <ShortOrderNumber>44</ShortOrderNumber>
+    <WindowStart>2013-04-18T06:13:00</WindowStart>
+    <WindowEnd>2013-04-18T06:13:00</WindowEnd>
+    <GridReference>123</GridReference>
+    <ScheduledArrival>2013-04-18T06:13:00</ScheduledArrival>
+    <AmbientTrayCount>2</AmbientTrayCount>
+    <ChilledTrayCount>1</ChilledTrayCount>
+    <FrozenTrayCount>1</FrozenTrayCount>
+    <WineTrayCount>1</WineTrayCount>
+    <DirectParcelCount>1</DirectParcelCount>
+    <Customer>
+      <CustomerTitle>Mr.</CustomerTitle>
+      <CustomerSurname>Gałkowska</CustomerSurname>
+      <Address>1 Falcon Way	AL7 1TW	Welwyn Garden City</Address>
+      <Postcode>609973</Postcode>
+      <PhoneDaytime>501395385</PhoneDaytime>
+      <PhoneEvening>501395385</PhoneEvening>
+      <PhoneMobile>501395385</PhoneMobile>
+      <CustomerFullName>Nicole Gałkowska</CustomerFullName>
+      <SignaturePoints>
+        <int>0</int>
+        <int>0</int>
+      </SignaturePoints>
+      <customerCommunication>
+        <ID>123</ID>
+        <CommunicationTime>2013-04-18T06:13:00</CommunicationTime>
+        <CommunicationDetail> Details</CommunicationDetail>
+      </customerCommunication>
+    </Customer>
+    <DeliveryNotes>Chwaszczyno- na Szemud - Kielno- ok. 4 km za Kielnem  w prawo ,,Bieszkówko 1 km''  w drogę gruntową, na skrzyż będzie kierun,,Kwiatowa, tłumaczenia'' - tam skręcić w prawo, trzeci dom</DeliveryNotes>
+    <DeliverySlot>5</DeliverySlot>
+    <DeliveryWithoutBags>false</DeliveryWithoutBags>
+    <Orderlines>
+      <OrderLines>
+        <OrderLineId>7690880</OrderLineId>
+        <Barcode>9873242343456</Barcode>
+        <Description>Tesco Kurczak Filet z piersi kurczaka tacka duża</Description>
+        <PickedQuantity>1</PickedQuantity>
+        <IsSubstitued>false</IsSubstitued>
+        <SubstitutedFor>7690883</SubstitutedFor>
+        <RejectedQuantity>0</RejectedQuantity>
+        <RejectionReason>Broken</RejectionReason>
+        <UnitPrice>18.69</UnitPrice>
+      </OrderLines>
+      <OrderLines>
+        <OrderLineId>7690881</OrderLineId>
+        <Barcode>9873242343455</Barcode>
+        <Description>Biohumus forte Nawóz do wszelkich roślin w domu na balkonie i tarasie 750 ml</Description>
+        <PickedQuantity>1</PickedQuantity>
+        <IsSubstitued>false</IsSubstitued>
+        <SubstitutedFor>7690883</SubstitutedFor>
+        <RejectedQuantity>0</RejectedQuantity>
+        <RejectionReason>Broken</RejectionReason>
+        <UnitPrice>18.69</UnitPrice>
+      </OrderLines>
+      <OrderLines>
+        <OrderLineId>7690882</OrderLineId>
+        <Barcode>9873242343454</Barcode>
+        <Description>Tesco Jabłka Gloster 2 kg</Description>
+        <PickedQuantity>1</PickedQuantity>
+        <IsSubstitued>false</IsSubstitued>
+        <SubstitutedFor>7690883</SubstitutedFor>
+        <RejectedQuantity>0</RejectedQuantity>
+        <RejectionReason>Broken</RejectionReason>
+        <UnitPrice>18.69</UnitPrice>
+      </OrderLines>
+      <OrderLines>
+        <OrderLineId>7690883</OrderLineId>
+        <Barcode>9873242343453</Barcode>
+        <Description>Bułka włoska 45 g</Description>
+        <PickedQuantity>8</PickedQuantity>
+        <IsSubstitued>false</IsSubstitued>
+        <SubstitutedFor>7690883</SubstitutedFor>
+        <RejectedQuantity>0</RejectedQuantity>
+        <RejectionReason>Broken</RejectionReason>
+        <UnitPrice>18.69</UnitPrice>
+      </OrderLines>
+      <OrderLines>
+        <OrderLineId>7690884</OrderLineId>
+        <Barcode>9873242343452</Barcode>
+        <Description>Tesco Kurczak Filet z piersi kurczaka tacka duża</Description>
+        <PickedQuantity>1</PickedQuantity>
+        <IsSubstitued>false</IsSubstitued>
+        <SubstitutedFor>7690883</SubstitutedFor>
+        <RejectedQuantity>0</RejectedQuantity>
+        <RejectionReason>Broken</RejectionReason>
+        <UnitPrice>18.69</UnitPrice>
+      </OrderLines>
+      <OrderLines>
+        <OrderLineId>7690885</OrderLineId>
+        <Barcode>9873242343451</Barcode>
+        <Description>Lajkonik Paluszki 300 g</Description>
+        <PickedQuantity>1</PickedQuantity>
+        <IsSubstitued>false</IsSubstitued>
+        <SubstitutedFor>7690883</SubstitutedFor>
+        <RejectedQuantity>0</RejectedQuantity>
+        <RejectionReason>Broken</RejectionReason>
+        <UnitPrice>18.69</UnitPrice>
+      </OrderLines>
+      <OrderLines>
+        <OrderLineId>7690886</OrderLineId>
+        <Barcode>9873242343450</Barcode>
+        <Description>Delecta Salsa Dip łagodny pomidorowy 260 g</Description>
+        <PickedQuantity>1</PickedQuantity>
+        <IsSubstitued>false</IsSubstitued>
+        <SubstitutedFor>7690883</SubstitutedFor>
+        <RejectedQuantity>0</RejectedQuantity>
+        <RejectionReason>Broken</RejectionReason>
+        <UnitPrice>18.69</UnitPrice>
+      </OrderLines>
+      <OrderLines>
+        <OrderLineId>7690887</OrderLineId>
+        <Barcode>9873242343457</Barcode>
+        <Description>Kubuś play! marchew malina Napój wieloowocowo-marchwiowy 400 ml</Description>
+        <PickedQuantity>8</PickedQuantity>
+        <IsSubstitued>false</IsSubstitued>
+        <SubstitutedFor>7690883</SubstitutedFor>
+        <RejectedQuantity>0</RejectedQuantity>
+        <RejectionReason>Broken</RejectionReason>
+        <UnitPrice>18.69</UnitPrice>
+      </OrderLines>
+    </Orderlines>
+    <CustomerDeliveryStatus>false</CustomerDeliveryStatus>
+    <DropSequence>7</DropSequence>
+    <DropTime>2013-04-18T15:30:00</DropTime>
+    <TotalItems>51</TotalItems>
+    <SubTotalAmount>237.05</SubTotalAmount>
+    <Discounts>4.98</Discounts>
+    <TotalSubstitutedItems>0</TotalSubstitutedItems>
+    <TotalOffsaledItems>0</TotalOffsaledItems>
+    <StoreMessage>Store message demo</StoreMessage>
+  </Order>
+  <Order>
+    <CustomerOrderId>267376</CustomerOrderId>
+    <CustomerOrderReference>1321936324</CustomerOrderReference>
+    <ShortOrderNumber>42</ShortOrderNumber>
+    <WindowStart>2013-04-18T06:13:00</WindowStart>
+    <WindowEnd>2013-04-18T06:13:00</WindowEnd>
+    <GridReference>123</GridReference>
+    <ScheduledArrival>2013-04-18T06:13:00</ScheduledArrival>
+    <AmbientTrayCount>2</AmbientTrayCount>
+    <ChilledTrayCount>1</ChilledTrayCount>
+    <FrozenTrayCount>1</FrozenTrayCount>
+    <WineTrayCount>1</WineTrayCount>
+    <DirectParcelCount>1</DirectParcelCount>
+    <Customer>
+      <CustomerTitle>Mr.</CustomerTitle>
+      <CustomerSurname>Austin</CustomerSurname>
+      <Address>1 Falcon Way	AL7 1TW	Welwyn Garden City</Address>
+      <Postcode>609973</Postcode>
+      <PhoneDaytime>501395385</PhoneDaytime>
+      <PhoneEvening>501395385</PhoneEvening>
+      <PhoneMobile>501395385</PhoneMobile>
+      <CustomerFullName>Niel Austin</CustomerFullName>
+      <SignaturePoints>
+        <int>0</int>
+        <int>0</int>
+      </SignaturePoints>
+      <customerCommunication>
+        <ID>123</ID>
+        <CommunicationTime>2013-04-18T06:13:00</CommunicationTime>
+        <CommunicationDetail> Details</CommunicationDetail>
+      </customerCommunication>
+    </Customer>
+    <DeliveryNotes>Chwaszczyno- na Szemud - Kielno- ok. 4 km za Kielnem  w prawo ,,Bieszkówko 1 km''  w drogę gruntową, na skrzyż będzie kierun,,Kwiatowa, tłumaczenia'' - tam skręcić w prawo, trzeci dom</DeliveryNotes>
+    <DeliverySlot>5</DeliverySlot>
+    <DeliveryWithoutBags>false</DeliveryWithoutBags>
+    <Orderlines>
+      <OrderLines>
+        <OrderLineId>7690880</OrderLineId>
+        <Barcode>9873242343456</Barcode>
+        <Description>Tesco Kurczak Filet z piersi kurczaka tacka duża</Description>
+        <PickedQuantity>1</PickedQuantity>
+        <IsSubstitued>false</IsSubstitued>
+        <SubstitutedFor>7690883</SubstitutedFor>
+        <RejectedQuantity>0</RejectedQuantity>
+        <RejectionReason>Broken</RejectionReason>
+        <UnitPrice>18.69</UnitPrice>
+      </OrderLines>
+      <OrderLines>
+        <OrderLineId>7690881</OrderLineId>
+        <Barcode>9873242343455</Barcode>
+        <Description>Biohumus forte Nawóz do wszelkich roślin w domu na balkonie i tarasie 750 ml</Description>
+        <PickedQuantity>1</PickedQuantity>
+        <IsSubstitued>false</IsSubstitued>
+        <SubstitutedFor>7690883</SubstitutedFor>
+        <RejectedQuantity>0</RejectedQuantity>
+        <RejectionReason>Broken</RejectionReason>
+        <UnitPrice>18.69</UnitPrice>
+      </OrderLines>
+      <OrderLines>
+        <OrderLineId>7690882</OrderLineId>
+        <Barcode>9873242343454</Barcode>
+        <Description>Tesco Jabłka Gloster 2 kg</Description>
+        <PickedQuantity>1</PickedQuantity>
+        <IsSubstitued>false</IsSubstitued>
+        <SubstitutedFor>7690883</SubstitutedFor>
+        <RejectedQuantity>0</RejectedQuantity>
+        <RejectionReason>Broken</RejectionReason>
+        <UnitPrice>18.69</UnitPrice>
+      </OrderLines>
+      <OrderLines>
+        <OrderLineId>7690883</OrderLineId>
+        <Barcode>9873242343453</Barcode>
+        <Description>Bułka włoska 45 g</Description>
+        <PickedQuantity>8</PickedQuantity>
+        <IsSubstitued>false</IsSubstitued>
+        <SubstitutedFor>7690883</SubstitutedFor>
+        <RejectedQuantity>0</RejectedQuantity>
+        <RejectionReason>Broken</RejectionReason>
+        <UnitPrice>18.69</UnitPrice>
+      </OrderLines>
+      <OrderLines>
+        <OrderLineId>7690884</OrderLineId>
+        <Barcode>9873242343452</Barcode>
+        <Description>Tesco Kurczak Filet z piersi kurczaka tacka duża</Description>
+        <PickedQuantity>1</PickedQuantity>
+        <IsSubstitued>false</IsSubstitued>
+        <SubstitutedFor>7690883</SubstitutedFor>
+        <RejectedQuantity>0</RejectedQuantity>
+        <RejectionReason>Broken</RejectionReason>
+        <UnitPrice>18.69</UnitPrice>
+      </OrderLines>
+      <OrderLines>
+        <OrderLineId>7690885</OrderLineId>
+        <Barcode>9873242343451</Barcode>
+        <Description>Lajkonik Paluszki 300 g</Description>
+        <PickedQuantity>1</PickedQuantity>
+        <IsSubstitued>false</IsSubstitued>
+        <SubstitutedFor>7690883</SubstitutedFor>
+        <RejectedQuantity>0</RejectedQuantity>
+        <RejectionReason>Broken</RejectionReason>
+        <UnitPrice>18.69</UnitPrice>
+      </OrderLines>
+      <OrderLines>
+        <OrderLineId>7690886</OrderLineId>
+        <Barcode>9873242343450</Barcode>
+        <Description>Delecta Salsa Dip łagodny pomidorowy 260 g</Description>
+        <PickedQuantity>1</PickedQuantity>
+        <IsSubstitued>false</IsSubstitued>
+        <SubstitutedFor>7690883</SubstitutedFor>
+        <RejectedQuantity>0</RejectedQuantity>
+        <RejectionReason>Broken</RejectionReason>
+        <UnitPrice>18.69</UnitPrice>
+      </OrderLines>
+      <OrderLines>
+        <OrderLineId>7690887</OrderLineId>
+        <Barcode>9873242343457</Barcode>
+        <Description>Kubuś play! marchew malina Napój wieloowocowo-marchwiowy 400 ml</Description>
+        <PickedQuantity>8</PickedQuantity>
+        <IsSubstitued>false</IsSubstitued>
+        <SubstitutedFor>7690883</SubstitutedFor>
+        <RejectedQuantity>0</RejectedQuantity>
+        <RejectionReason>Broken</RejectionReason>
+        <UnitPrice>18.69</UnitPrice>
+      </OrderLines>
+    </Orderlines>
+    <CustomerDeliveryStatus>false</CustomerDeliveryStatus>
+    <DropSequence>7</DropSequence>
+    <DropTime>2013-04-18T15:30:00</DropTime>
+    <TotalItems>51</TotalItems>
+    <SubTotalAmount>237.05</SubTotalAmount>
+    <Discounts>4.98</Discounts>
+    <TotalSubstitutedItems>0</TotalSubstitutedItems>
+    <TotalOffsaledItems>0</TotalOffsaledItems>
+    <StoreMessage>Store message demo</StoreMessage>
+  </Order>
+  <Order>
+    <CustomerOrderId>267377</CustomerOrderId>
+    <CustomerOrderReference>1321936265</CustomerOrderReference>
+    <ShortOrderNumber>41</ShortOrderNumber>
+    <WindowStart>2013-04-18T06:13:00</WindowStart>
+    <WindowEnd>2013-04-18T06:13:00</WindowEnd>
+    <GridReference>123</GridReference>
+    <ScheduledArrival>2013-04-18T06:13:00</ScheduledArrival>
+    <AmbientTrayCount>2</AmbientTrayCount>
+    <ChilledTrayCount>1</ChilledTrayCount>
+    <FrozenTrayCount>1</FrozenTrayCount>
+    <WineTrayCount>1</WineTrayCount>
+    <DirectParcelCount>1</DirectParcelCount>
+    <Customer>
+      <CustomerTitle>Mr.</CustomerTitle>
+      <CustomerSurname>Aldrin</CustomerSurname>
+      <Address>1 Falcon Way	AL7 1TW	Welwyn Garden City</Address>
+      <Postcode>609973</Postcode>
+      <PhoneDaytime>501395385</PhoneDaytime>
+      <PhoneEvening>501395385</PhoneEvening>
+      <PhoneMobile>501395385</PhoneMobile>
+      <CustomerFullName>Buzz</CustomerFullName>
+      <SignaturePoints>
+        <int>0</int>
+        <int>0</int>
+      </SignaturePoints>
+      <customerCommunication>
+        <ID>123</ID>
+        <CommunicationTime>2013-04-18T06:13:00</CommunicationTime>
+        <CommunicationDetail> Details</CommunicationDetail>
+      </customerCommunication>
+    </Customer>
+    <DeliveryNotes>Chwaszczyno- na Szemud - Kielno- ok. 4 km za Kielnem  w prawo ,,Bieszkówko 1 km''  w drogę gruntową, na skrzyż będzie kierun,,Kwiatowa, tłumaczenia'' - tam skręcić w prawo, trzeci dom</DeliveryNotes>
+    <DeliverySlot>5</DeliverySlot>
+    <DeliveryWithoutBags>false</DeliveryWithoutBags>
+    <Orderlines>
+      <OrderLines>
+        <OrderLineId>7690880</OrderLineId>
+        <Barcode>9873242343456</Barcode>
+        <Description>Tesco Kurczak Filet z piersi kurczaka tacka duża</Description>
+        <PickedQuantity>1</PickedQuantity>
+        <IsSubstitued>false</IsSubstitued>
+        <SubstitutedFor>7690883</SubstitutedFor>
+        <RejectedQuantity>0</RejectedQuantity>
+        <RejectionReason>Broken</RejectionReason>
+        <UnitPrice>18.69</UnitPrice>
+      </OrderLines>
+      <OrderLines>
+        <OrderLineId>7690881</OrderLineId>
+        <Barcode>9873242343455</Barcode>
+        <Description>Biohumus forte Nawóz do wszelkich roślin w domu na balkonie i tarasie 750 ml</Description>
+        <PickedQuantity>1</PickedQuantity>
+        <IsSubstitued>false</IsSubstitued>
+        <SubstitutedFor>7690883</SubstitutedFor>
+        <RejectedQuantity>0</RejectedQuantity>
+        <RejectionReason>Broken</RejectionReason>
+        <UnitPrice>18.69</UnitPrice>
+      </OrderLines>
+      <OrderLines>
+        <OrderLineId>7690882</OrderLineId>
+        <Barcode>9873242343454</Barcode>
+        <Description>Tesco Jabłka Gloster 2 kg</Description>
+        <PickedQuantity>1</PickedQuantity>
+        <IsSubstitued>false</IsSubstitued>
+        <SubstitutedFor>7690883</SubstitutedFor>
+        <RejectedQuantity>0</RejectedQuantity>
+        <RejectionReason>Broken</RejectionReason>
+        <UnitPrice>18.69</UnitPrice>
+      </OrderLines>
+      <OrderLines>
+        <OrderLineId>7690883</OrderLineId>
+        <Barcode>9873242343453</Barcode>
+        <Description>Bułka włoska 45 g</Description>
+        <PickedQuantity>8</PickedQuantity>
+        <IsSubstitued>false</IsSubstitued>
+        <SubstitutedFor>7690883</SubstitutedFor>
+        <RejectedQuantity>0</RejectedQuantity>
+        <RejectionReason>Broken</RejectionReason>
+        <UnitPrice>18.69</UnitPrice>
+      </OrderLines>
+      <OrderLines>
+        <OrderLineId>7690884</OrderLineId>
+        <Barcode>9873242343452</Barcode>
+        <Description>Tesco Kurczak Filet z piersi kurczaka tacka duża</Description>
+        <PickedQuantity>1</PickedQuantity>
+        <IsSubstitued>false</IsSubstitued>
+        <SubstitutedFor>7690883</SubstitutedFor>
+        <RejectedQuantity>0</RejectedQuantity>
+        <RejectionReason>Broken</RejectionReason>
+        <UnitPrice>18.69</UnitPrice>
+      </OrderLines>
+      <OrderLines>
+        <OrderLineId>7690885</OrderLineId>
+        <Barcode>9873242343451</Barcode>
+        <Description>Lajkonik Paluszki 300 g</Description>
+        <PickedQuantity>1</PickedQuantity>
+        <IsSubstitued>false</IsSubstitued>
+        <SubstitutedFor>7690883</SubstitutedFor>
+        <RejectedQuantity>0</RejectedQuantity>
+        <RejectionReason>Broken</RejectionReason>
+        <UnitPrice>18.69</UnitPrice>
+      </OrderLines>
+      <OrderLines>
+        <OrderLineId>7690886</OrderLineId>
+        <Barcode>9873242343450</Barcode>
+        <Description>Delecta Salsa Dip łagodny pomidorowy 260 g</Description>
+        <PickedQuantity>1</PickedQuantity>
+        <IsSubstitued>false</IsSubstitued>
+        <SubstitutedFor>7690883</SubstitutedFor>
+        <RejectedQuantity>0</RejectedQuantity>
+        <RejectionReason>Broken</RejectionReason>
+        <UnitPrice>18.69</UnitPrice>
+      </OrderLines>
+      <OrderLines>
+        <OrderLineId>7690887</OrderLineId>
+        <Barcode>9873242343457</Barcode>
+        <Description>Kubuś play! marchew malina Napój wieloowocowo-marchwiowy 400 ml</Description>
+        <PickedQuantity>8</PickedQuantity>
+        <IsSubstitued>false</IsSubstitued>
+        <SubstitutedFor>7690883</SubstitutedFor>
+        <RejectedQuantity>0</RejectedQuantity>
+        <RejectionReason>Broken</RejectionReason>
+        <UnitPrice>18.69</UnitPrice>
+      </OrderLines>
+    </Orderlines>
+    <CustomerDeliveryStatus>false</CustomerDeliveryStatus>
+    <DropSequence>7</DropSequence>
+    <DropTime>2013-04-18T15:30:00</DropTime>
+    <TotalItems>51</TotalItems>
+    <SubTotalAmount>237.05</SubTotalAmount>
+    <Discounts>4.98</Discounts>
+    <TotalSubstitutedItems>0</TotalSubstitutedItems>
+    <TotalOffsaledItems>0</TotalOffsaledItems>
+    <StoreMessage>Store message demo</StoreMessage>
+  </Order>
+  <Order>
+    <CustomerOrderId>267604</CustomerOrderId>
+    <CustomerOrderReference>1321935519</CustomerOrderReference>
+    <ShortOrderNumber>40</ShortOrderNumber>
+    <WindowStart>2013-04-18T06:13:00</WindowStart>
+    <WindowEnd>2013-04-18T06:13:00</WindowEnd>
+    <GridReference>123</GridReference>
+    <ScheduledArrival>2013-04-18T06:13:00</ScheduledArrival>
+    <AmbientTrayCount>2</AmbientTrayCount>
+    <ChilledTrayCount>1</ChilledTrayCount>
+    <FrozenTrayCount>1</FrozenTrayCount>
+    <WineTrayCount>1</WineTrayCount>
+    <DirectParcelCount>1</DirectParcelCount>
+    <Customer>
+      <CustomerTitle>Mr.</CustomerTitle>
+      <CustomerSurname>Smith</CustomerSurname>
+      <Address>1 Falcon Way	AL7 1TW	Welwyn Garden City</Address>
+      <Postcode>609973</Postcode>
+      <PhoneDaytime>501395385</PhoneDaytime>
+      <PhoneEvening>501395385</PhoneEvening>
+      <PhoneMobile>501395385</PhoneMobile>
+      <CustomerFullName>Deric Smith</CustomerFullName>
+      <SignaturePoints>
+        <int>0</int>
+        <int>0</int>
+      </SignaturePoints>
+      <customerCommunication>
+        <ID>123</ID>
+        <CommunicationTime>2013-04-18T06:13:00</CommunicationTime>
+        <CommunicationDetail> Details</CommunicationDetail>
+      </customerCommunication>
+    </Customer>
+    <DeliveryNotes>Chwaszczyno- na Szemud - Kielno- ok. 4 km za Kielnem  w prawo ,,Bieszkówko 1 km''  w drogę gruntową, na skrzyż będzie kierun,,Kwiatowa, tłumaczenia'' - tam skręcić w prawo, trzeci dom</DeliveryNotes>
+    <DeliverySlot>5</DeliverySlot>
+    <DeliveryWithoutBags>false</DeliveryWithoutBags>
+    <Orderlines>
+      <OrderLines>
+        <OrderLineId>7690880</OrderLineId>
+        <Barcode>9873242343456</Barcode>
+        <Description>Tesco Kurczak Filet z piersi kurczaka tacka duża</Description>
+        <PickedQuantity>1</PickedQuantity>
+        <IsSubstitued>false</IsSubstitued>
+        <SubstitutedFor>7690883</SubstitutedFor>
+        <RejectedQuantity>0</RejectedQuantity>
+        <RejectionReason>Broken</RejectionReason>
+        <UnitPrice>18.69</UnitPrice>
+      </OrderLines>
+      <OrderLines>
+        <OrderLineId>7690881</OrderLineId>
+        <Barcode>9873242343455</Barcode>
+        <Description>Biohumus forte Nawóz do wszelkich roślin w domu na balkonie i tarasie 750 ml</Description>
+        <PickedQuantity>1</PickedQuantity>
+        <IsSubstitued>false</IsSubstitued>
+        <SubstitutedFor>7690883</SubstitutedFor>
+        <RejectedQuantity>0</RejectedQuantity>
+        <RejectionReason>Broken</RejectionReason>
+        <UnitPrice>18.69</UnitPrice>
+      </OrderLines>
+      <OrderLines>
+        <OrderLineId>7690882</OrderLineId>
+        <Barcode>9873242343454</Barcode>
+        <Description>Tesco Jabłka Gloster 2 kg</Description>
+        <PickedQuantity>1</PickedQuantity>
+        <IsSubstitued>false</IsSubstitued>
+        <SubstitutedFor>7690883</SubstitutedFor>
+        <RejectedQuantity>0</RejectedQuantity>
+        <RejectionReason>Broken</RejectionReason>
+        <UnitPrice>18.69</UnitPrice>
+      </OrderLines>
+      <OrderLines>
+        <OrderLineId>7690883</OrderLineId>
+        <Barcode>9873242343453</Barcode>
+        <Description>Bułka włoska 45 g</Description>
+        <PickedQuantity>8</PickedQuantity>
+        <IsSubstitued>false</IsSubstitued>
+        <SubstitutedFor>7690883</SubstitutedFor>
+        <RejectedQuantity>0</RejectedQuantity>
+        <RejectionReason>Broken</RejectionReason>
+        <UnitPrice>18.69</UnitPrice>
+      </OrderLines>
+      <OrderLines>
+        <OrderLineId>7690884</OrderLineId>
+        <Barcode>9873242343452</Barcode>
+        <Description>Tesco Kurczak Filet z piersi kurczaka tacka duża</Description>
+        <PickedQuantity>1</PickedQuantity>
+        <IsSubstitued>false</IsSubstitued>
+        <SubstitutedFor>7690883</SubstitutedFor>
+        <RejectedQuantity>0</RejectedQuantity>
+        <RejectionReason>Broken</RejectionReason>
+        <UnitPrice>18.69</UnitPrice>
+      </OrderLines>
+      <OrderLines>
+        <OrderLineId>7690885</OrderLineId>
+        <Barcode>9873242343451</Barcode>
+        <Description>Lajkonik Paluszki 300 g</Description>
+        <PickedQuantity>1</PickedQuantity>
+        <IsSubstitued>false</IsSubstitued>
+        <SubstitutedFor>7690883</SubstitutedFor>
+        <RejectedQuantity>0</RejectedQuantity>
+        <RejectionReason>Broken</RejectionReason>
+        <UnitPrice>18.69</UnitPrice>
+      </OrderLines>
+      <OrderLines>
+        <OrderLineId>7690886</OrderLineId>
+        <Barcode>9873242343450</Barcode>
+        <Description>Delecta Salsa Dip łagodny pomidorowy 260 g</Description>
+        <PickedQuantity>1</PickedQuantity>
+        <IsSubstitued>false</IsSubstitued>
+        <SubstitutedFor>7690883</SubstitutedFor>
+        <RejectedQuantity>0</RejectedQuantity>
+        <RejectionReason>Broken</RejectionReason>
+        <UnitPrice>18.69</UnitPrice>
+      </OrderLines>
+      <OrderLines>
+        <OrderLineId>7690887</OrderLineId>
+        <Barcode>9873242343457</Barcode>
+        <Description>Kubuś play! marchew malina Napój wieloowocowo-marchwiowy 400 ml</Description>
+        <PickedQuantity>8</PickedQuantity>
+        <IsSubstitued>false</IsSubstitued>
+        <SubstitutedFor>7690883</SubstitutedFor>
+        <RejectedQuantity>0</RejectedQuantity>
+        <RejectionReason>Broken</RejectionReason>
+        <UnitPrice>18.69</UnitPrice>
+      </OrderLines>
+    </Orderlines>
+    <CustomerDeliveryStatus>false</CustomerDeliveryStatus>
+    <DropSequence>7</DropSequence>
+    <DropTime>2013-04-18T15:30:00</DropTime>
+    <TotalItems>51</TotalItems>
+    <SubTotalAmount>237.05</SubTotalAmount>
+    <Discounts>4.98</Discounts>
+    <TotalSubstitutedItems>0</TotalSubstitutedItems>
+    <TotalOffsaledItems>0</TotalOffsaledItems>
+    <StoreMessage>Store message demo</StoreMessage>
+  </Order>
+</ArrayOfOrder>
