@@ -1,23 +1,13 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30324.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockTransportAPI", "MockTransportAPI\MockTransportAPI.csproj", "{61ACCD77-0080-4FCE-B4AE-9B426D511508}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockOrderService", "MockOrderService\MockOrderService.csproj", "{76AAAE86-D862-45D9-B10D-C11869A91261}"
 EndProject
 Global
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 3
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = http://tfsapp.dotcom.tesco.org/tfs/grocery
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = MockTransportAPI\\MockTransportAPI.csproj
-		SccProjectName1 = MockTransportAPI
-		SccLocalPath1 = MockTransportAPI
-		SccProjectUniqueName2 = MockOrderService\\MockOrderService.csproj
-		SccProjectName2 = MockOrderService
-		SccLocalPath2 = MockOrderService
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
