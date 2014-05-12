@@ -19,7 +19,8 @@ namespace MockOrderService.Repository
             List<Order> returnval = new List<Order>();
             foreach (var ids in OrderId)
             {
-                returnval.Add(result.Where(m => m.CustomerOrderReference.ToLower() == ids.ToLower()).FirstOrDefault());
+                var ret = result.Where(m => m.CustomerOrderId == Convert.ToInt32(ids)).FirstOrDefault();
+                returnval.Add(ret);
             }
             return returnval;
         }
