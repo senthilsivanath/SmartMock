@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.30324.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockTransportAPI", "MockTransportAPI\MockTransportAPI.csproj", "{61ACCD77-0080-4FCE-B4AE-9B426D511508}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockOrderService", "MockOrderService\MockOrderService.csproj", "{76AAAE86-D862-45D9-B10D-C11869A91261}"
 EndProject
 Global
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{61ACCD77-0080-4FCE-B4AE-9B426D511508}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{61ACCD77-0080-4FCE-B4AE-9B426D511508}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{61ACCD77-0080-4FCE-B4AE-9B426D511508}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{61ACCD77-0080-4FCE-B4AE-9B426D511508}.Release|Any CPU.Build.0 = Release|Any CPU
 		{76AAAE86-D862-45D9-B10D-C11869A91261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{76AAAE86-D862-45D9-B10D-C11869A91261}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76AAAE86-D862-45D9-B10D-C11869A91261}.Release|Any CPU.ActiveCfg = Release|Any CPU
